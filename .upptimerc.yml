@@ -15,7 +15,7 @@ sites:
 # 状态页面设置
 status-website:
   name: 湛青数科服务状态监控 # 页面标题
-  baseUrl: /my-zydt-status # 你的仓库名称
+  baseUrl: /
   logoUrl: https://drive.zydt.saop.cc/d/logo.avif # 从你们网盘加载LOGO
   theme: light # 主题风格 (light 或 dark)
   # cname: status.your-domain.com # 如需自定义域名，取消注释并修改
