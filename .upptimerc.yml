@@ -1,0 +1,15 @@
+owner: Maple2085
+repo: my-zydt-status
+
+sites:
+  - name: 湛青数科网盘
+    url: https://drive.zydt.saop.cc/
+    expectedStatusCodes: [200]
+  - name: 湛江青年数字科技协会官网
+    url: https://zydt.saop.cc/
+    expectedStatusCodes: [200]
+
+status-website:
+  baseUrl: /my-zydt-status
+  logoUrl: https://drive.zydt.saop.cc/d/logo.avif
+  name: 湛青数科服务状态监控
