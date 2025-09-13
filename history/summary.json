@@ -1,5 +1,23 @@
 [
   {
+    "name": "Google Test",
+    "url": "https://www.google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
+    "slug": "google-test",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 86,
+    "timeDay": 86,
+    "timeWeek": 86,
+    "timeMonth": 86,
+    "timeYear": 86,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "湛青数科网盘",
     "url": "https://drive.zydt.saop.cc/",
     "icon": "https://icons.duckduckgo.com/ip3/drive.zydt.saop.cc.ico",
